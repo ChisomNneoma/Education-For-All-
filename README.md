@@ -1,5 +1,14 @@
 # Education For All Fundraising Analysis
 
+### Easily Access:
+[Project Overview](project-overview)
+[Tools](tools)
+[Exploratory Data Analysis](exploratory-data-analysis)
+[Data Analysis](data-analysis)
+[Results/Findings](results/findings)
+[Recommendations](recommendations)
+[View Analysis Report](view-analysis-report)
+
 ### Project Overview
 
 Education For All is a charity organization whose mission is to ensure every student is able to access quality education irrespective of their economic background. This report focuses on analyzing the donation data from the previous year and gain insights to help the organization strategize and increase donations in future fundraising events.
