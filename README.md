@@ -2,11 +2,17 @@
 
 ### Easily Access:
 [Project Overview](project-overview)
+
 [Tools](tools)
+
 [Exploratory Data Analysis](exploratory-data-analysis)
+
 [Data Analysis](data-analysis)
+
 [Results/Findings](results/findings)
+
 [Recommendations](recommendations)
+
 [View Analysis Report](view-analysis-report)
 
 ### Project Overview
