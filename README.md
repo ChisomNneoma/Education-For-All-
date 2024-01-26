@@ -18,7 +18,7 @@ Education For All is a charity organization whose mission is to ensure every stu
 ### Tools
 
 - PostgreSQL
- - Data Analysis
+  - Data Analysis
 
 ### Exploratory Data Analysis
 
