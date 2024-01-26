@@ -315,6 +315,4 @@ Summarily, donors should be educated on the significance of their contributions 
 
 ### View Analysis Report
 
-To view screenshots of analysis on a pdf file, Click here ⬇️
-
-[Education For All Fundraising Report.pdf](https://github.com/ChisomNneoma/Education-For-All-/files/14064974/Education.For.All.Fundraising.Report.pdf)
+To view screenshots of analysis on a pdf file, [Click here](https://drive.google.com/file/d/10fvwHpTIonJCyM3jzcVyDP-XBgqwlfnN/view?usp=sharing)
