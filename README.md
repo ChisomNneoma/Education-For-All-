@@ -2,19 +2,13 @@
 
 ### Easily Access
 
-- [Project Overview](project-overview)
-
-- [Tools](tools)
-
-- [Exploratory Data Analysis](exploratory-data-analysis)
-
-- [Data Analysis](data-analysis)
-
-- [Results/Findings](results/findings)
-
-- [Recommendations](recommendations)
-
-- [View Analysis Report](view-analysis-report)
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results And Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [View Analysis Report](#view-analysis-report)
 
 
 ### Project Overview
@@ -286,7 +280,7 @@ LIMIT 10;
 ```
 
 
-### Results/Findings
+### Results And Findings
 
 1. Total amount donated is $249,085 and a total of 1000 donations were made.
 
